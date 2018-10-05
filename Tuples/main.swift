@@ -10,3 +10,12 @@ import Foundation
 
 print("Hello, World!")
 
+var fellow = ("Jevon","Gordon", 26)
+
+fellow = (firstName: "Jevon", lastName: "Gordon", age: 26)
+
+print(fellow)
+
+let this = (range: 0...5, "jevon")
+
+print(this)
